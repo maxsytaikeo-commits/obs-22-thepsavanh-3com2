@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework.md",
+                "file": "Homeworkv2/info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homework"
+              "title": "info"
             }
           }
         ]
@@ -170,28 +170,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "d05fcd30df426a57",
+  "active": "c3ce418062d5cc9b",
   "lastOpenFiles": [
-    "Homeworkv2/info.md",
-    "Homeworkv2/infoo.md",
     "png/9.webp",
-    "png/35.webp",
+    "png/Active-Buzzer-vs-Passive-Buzzer-1024x398.jpg",
+    "png/40.png",
     "png/8.webp",
-    "png/34.jpg",
+    "png/5.webp",
+    "png/4 (2).webp",
     "png/7.webp",
     "png/6.jpg",
-    "png/5.webp",
-    "png/40.png",
-    "png/4 (2).webp",
-    "png/32.jpg",
+    "png/39.webp",
+    "png/38.webp",
+    "png/34.jpg",
     "png",
+    "Arduno",
+    "Homeworkv2/info.md",
+    "Homeworkv2/info.md",
+    "Homeworkv2/infoo.md",
     "Homework.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
     "2025-10-27.md",
     "Homeworkv2",
-    "Homework v2",
-    "Welcome.md"
+    "Homework v2"
   ]
 }
